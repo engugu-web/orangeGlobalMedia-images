@@ -1,6 +1,6 @@
 # 官网轮播图片仓库
 
-这是 Orange Global Media 官网首页星环轮播的独立图片仓库，网站代码在另一个仓库，无需修改。
+这是 Orange Global Media 官网首页星环轮播的独立图片仓库 [orangeGlobalMedia-images](https://github.com/engugu-web/orangeGlobalMedia-images)，网站代码在 [orangeGlobalMedia](https://github.com/engugu-web/orangeGlobalMedia)，无需修改。
 
 ## 更换图片
 
@@ -22,6 +22,8 @@
 ## 本地使用
 
 本地目录：`D:\orangeMidea\engugu-images`
+
+仓库已改名，本地目录沿用原路径。Git 远程地址为 `https://github.com/engugu-web/orangeGlobalMedia-images.git`。
 
 ```sh
 git add images
